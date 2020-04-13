@@ -10,6 +10,7 @@ ReactDOM.render(
   <React.StrictMode>
     <App />
   </React.StrictMode>,
+  <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests"></meta>
   
   document.getElementById('root')
 );
