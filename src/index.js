@@ -11,7 +11,7 @@ ReactDOM.render(
     <App />
   </React.StrictMode>,
   <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests"></meta>
-  
+  ,
   document.getElementById('root')
 );
 // If you want your app to work offline and load faster, you can change
