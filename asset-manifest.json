@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/github.io/trivia/static/css/main.122b75ee.chunk.css",
+    "main.js": "/github.io/trivia/static/js/main.e5c0022f.chunk.js",
+    "main.js.map": "/github.io/trivia/static/js/main.e5c0022f.chunk.js.map",
+    "runtime-main.js": "/github.io/trivia/static/js/runtime-main.6de5cf6a.js",
+    "runtime-main.js.map": "/github.io/trivia/static/js/runtime-main.6de5cf6a.js.map",
+    "static/css/2.2990c7a7.chunk.css": "/github.io/trivia/static/css/2.2990c7a7.chunk.css",
+    "static/js/2.430b8a27.chunk.js": "/github.io/trivia/static/js/2.430b8a27.chunk.js",
+    "static/js/2.430b8a27.chunk.js.map": "/github.io/trivia/static/js/2.430b8a27.chunk.js.map",
+    "index.html": "/github.io/trivia/index.html",
+    "precache-manifest.37ff1099d949a99c96ae92a64f93d1d9.js": "/github.io/trivia/precache-manifest.37ff1099d949a99c96ae92a64f93d1d9.js",
+    "service-worker.js": "/github.io/trivia/service-worker.js",
+    "static/css/2.2990c7a7.chunk.css.map": "/github.io/trivia/static/css/2.2990c7a7.chunk.css.map",
+    "static/css/main.122b75ee.chunk.css.map": "/github.io/trivia/static/css/main.122b75ee.chunk.css.map",
+    "static/js/2.430b8a27.chunk.js.LICENSE.txt": "/github.io/trivia/static/js/2.430b8a27.chunk.js.LICENSE.txt",
+    "static/media/datefact.png": "/github.io/trivia/static/media/datefact.81764997.png",
+    "static/media/numberfact.png": "/github.io/trivia/static/media/numberfact.385a4c5c.png",
+    "static/media/trivia.png": "/github.io/trivia/static/media/trivia.5e701266.png",
+    "static/media/yearfacts.png": "/github.io/trivia/static/media/yearfacts.a2aca365.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6de5cf6a.js",
+    "static/css/2.2990c7a7.chunk.css",
+    "static/js/2.430b8a27.chunk.js",
+    "static/css/main.122b75ee.chunk.css",
+    "static/js/main.e5c0022f.chunk.js"
+  ]
+}
